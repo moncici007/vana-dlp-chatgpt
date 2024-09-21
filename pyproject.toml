@@ -24,7 +24,7 @@ scikit-learn = "^1.5.0"
 munch = "^4.0.0"
 
 
-[tool.poetry.group.dev.dependencies]
+[tool.poetry.dev-dependencies]
 pytest = "^8.2.2"
 pytest-mock = "^3.14.0"
 pytest-asyncio = "^0.23.7"
